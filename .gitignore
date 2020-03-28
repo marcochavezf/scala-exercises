@@ -1,0 +1,12 @@
+node_modules
+
+*.vsix
+.metals
+.vscode
+.bloop
+.idea
+null
+target
+.dotty-ide-artifact
+.dotty-ide.json
+project\project\target
